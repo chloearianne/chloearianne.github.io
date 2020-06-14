@@ -1,0 +1,26 @@
+.profile-image {
+	width: 300px;
+}
+
+h1, h2 {
+	font-family: "Neuton";
+	letter-spacing: 1px;
+}
+
+body {
+	font-family: "Roboto";
+}
+
+.nav{
+	padding: 1em;
+}
+
+.nav-item {
+	margin-right: 1em;
+}
+
+a {
+	color: #87dbde;
+	text-decoration: none;
+}
+
